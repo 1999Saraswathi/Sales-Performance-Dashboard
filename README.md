@@ -52,5 +52,5 @@ This project demonstrates how powerful Excel can be for end-to-end data analysis
 
 ## 👩‍💻 **Author**
 **Saraswathi Khatri**  
-📧 dhamisaraswathi@gmail.com 
+📧 dhamisaraswathi68@gmail.com 
 🔗 www.linkedin.com/in/saraswathi-khatri-37401324a
